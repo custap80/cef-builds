@@ -10,5 +10,5 @@ This browser is portable, but not profile itself. (e.g) You can't see the browsi
 ## Source
 Choose the smallest size ends with `...client.tar.bz2`
 - [Chromium Embedded](https://cef-builds.spotifycdn.com/index.html)
-- [Chromium CEF v89](https://cef-builds.spotifycdn.com/index.html#windows64:89) (filtered)
 - [Chromium CEF v99](https://cef-builds.spotifycdn.com/index.html#windows64:99) (filtered)
+- [Chromium CEF v99 32bit](https://cef-builds.spotifycdn.com/index.html#windows32:99) (filtered)
